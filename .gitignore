@@ -1,0 +1,7 @@
+tags
+moddiag
+include/config.h
+graphs/*
+build/*
+*.swp
+*.swo
