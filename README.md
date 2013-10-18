@@ -78,6 +78,6 @@ TODO
 
 Contact
 -------
-If you have questions, contact Maiusz Ryndzionek at:
+If you have questions, contact Mariusz Ryndzionek at:
 
 <mryndzionek@gmail.com>
